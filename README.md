@@ -20,7 +20,7 @@ Bulacan State University &nbsp;|&nbsp; Philippines
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 
-<div align="center">
+<div align="center" display="flex">
 
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=dev-xrab&theme=aurora&style=terminal&mode=light">
