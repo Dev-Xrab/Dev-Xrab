@@ -20,9 +20,19 @@ Bulacan State University &nbsp;|&nbsp; Philippines
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 
-<div align="center" width="100%">
-
-<picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=dev-xrab&theme=aurora&style=terminal&mode=light"><img height="150" alt="dev-xrab portrait" src="https://www.gitskins.com/api/section/portrait?username=dev-xrab&theme=aurora&style=terminal&mode=dark"></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&theme=aurora&style=terminal&label=Ben+David&mode=light"><img height="150" alt="dev-xrab wordmark" src="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&theme=aurora&style=terminal&label=Dev_Xrab&mode=dark"></picture>
-
-</div>
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=dev-xrab&theme=aurora&style=terminal&mode=light">
+    <img width="100%" alt="dev-xrab portrait" src="https://www.gitskins.com/api/section/portrait?username=dev-xrab&theme=aurora&style=terminal&mode=dark">
+  </picture>
+</td>
+<td width="75%" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&theme=aurora&style=terminal&label=Ben+David&mode=light">
+    <img width="100%" alt="dev-xrab wordmark" src="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&theme=aurora&style=terminal&label=Dev_Xrab&mode=dark">
+  </picture>
+</td>
+</tr>
+</table>
