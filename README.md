@@ -3,4 +3,4 @@
 Bulacan State University &nbsp;|&nbsp; Philippines
 </div>
 
-##When I code I rely on
+## When I code I rely on
