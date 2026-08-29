@@ -22,7 +22,7 @@ Bulacan State University &nbsp;|&nbsp; Philippines
 
 <td width="58%" valign="top"><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&amp;theme=aurora&amp;style=terminal&amp;label=Ben+David&amp;mode=light">
-  <img width="100%" alt="dev-xrab wordmark" src="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&amp;theme=aurora&amp;style=terminal&amp;label=NIGGA&amp;mode=dark">
+  <img width="100%" alt="dev-xrab wordmark" src="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&amp;theme=aurora&amp;style=terminal&amp;label=Dev_Xrab&amp;mode=dark">
 </picture></td>
 
 ![small window](./contrib-heatmap.svg )
