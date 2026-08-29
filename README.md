@@ -22,7 +22,7 @@ Bulacan State University &nbsp;|&nbsp; Philippines
 
 <table>
 <tr>
-<td width="22%" valign="top">
+<td width="20%" valign="top">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=dev-xrab&theme=aurora&style=terminal&mode=light">
     <img width="100%" alt="dev-xrab portrait" src="https://www.gitskins.com/api/section/portrait?username=dev-xrab&theme=aurora&style=terminal&mode=dark">
