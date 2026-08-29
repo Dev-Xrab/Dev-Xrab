@@ -10,10 +10,10 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-USERNAME = os.getenv("Dev-Xrab", "Dev-Xrab")
+USERNAME = os.getenv("USERNAME", "Dev-Xrab")
 OUTPUT = Path("data/contributions.json")
 
-URL = f"https://github.com/users/{Dev-Xrab}/contributions"
+URL = f"https://github.com/users/{USERNAME}/contributions"
 
 def parse_count(text: str) -> int:
     text = text.replace(",", "")
@@ -154,7 +154,7 @@ def main():
         )
 
     payload = {
-        "username": Dev-Xrab,
+        "username": USERNAME,
         "generated_at": datetime.utcnow().isoformat(timespec="seconds") + "Z",
         "days": days,
         "stats": derive_stats(days),

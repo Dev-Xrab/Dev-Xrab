@@ -53,7 +53,7 @@ def main():
         )
 
     data = json.loads(SOURCE.read_text(encoding="utf-8"))
-    Dev-Xrab = data["Dev-Xrab"]
+    username = data["username"]
     raw_days = data["days"]
     stats = data["stats"]
 
@@ -83,7 +83,7 @@ def main():
         "</style>",
         f'<rect width="100%" height="100%" rx="14" fill="{BG}"/>',
         f'<rect x="0.5" y="0.5" width="{WIDTH-1}" height="{HEIGHT-1}" rx="14" fill="none" stroke="{BORDER}"/>',
-        f'<text x="24" y="30" class="title">{escape(Dev-Xrab)} / contributions</text>',
+        f'<text x="24" y="30" class="title">{escape(username)} / contributions</text>',
         f'<text x="24" y="48" class="muted">last 53 weeks · regenerated automatically</text>',
     ]
 
