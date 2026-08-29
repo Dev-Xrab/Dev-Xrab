@@ -21,6 +21,7 @@ Bulacan State University &nbsp;|&nbsp; Philippines
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 <td width="58%" valign="top"><picture>
+  <img width="100%" alt="dev-xrab portrait" src="https://www.gitskins.com/api/section/portrait?username=dev-xrab&amp;theme=aurora&amp;style=terminal&amp;mode=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&amp;theme=aurora&amp;style=terminal&amp;label=Ben+David&amp;mode=light">
   <img width="100%" alt="dev-xrab wordmark" src="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&amp;theme=aurora&amp;style=terminal&amp;label=Dev_Xrab&amp;mode=dark">
 </picture></td>
@@ -29,4 +30,4 @@ Bulacan State University &nbsp;|&nbsp; Philippines
   <img width="100%" alt="small window" src="contrib-heatmap.svg"> 
 </td>
 
-<img width="100%" alt="dev-xrab portrait" src="https://www.gitskins.com/api/section/portrait?username=dev-xrab&amp;theme=aurora&amp;style=terminal&amp;mode=dark">
+
