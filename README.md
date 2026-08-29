@@ -39,8 +39,5 @@ Bulacan State University &nbsp;|&nbsp; Philippines
 </tr>
 </table>
  
-<td width="58%" valign="top"> 
-  <img width="100%" height ="100%" alt="small window" src="contrib-heatmap.svg"> 
-</td>
 
 
