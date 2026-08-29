@@ -20,9 +20,9 @@ Bulacan State University &nbsp;|&nbsp; Philippines
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-![small window](./contrib-heatmap.svg )
-
 <td width="58%" valign="top"><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&amp;theme=aurora&amp;style=terminal&amp;label=Ben+David&amp;mode=light">
   <img width="100%" alt="dev-xrab wordmark" src="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&amp;theme=aurora&amp;style=terminal&amp;label=Ben+David&amp;mode=dark">
 </picture></td>
+
+![small window](./contrib-heatmap.svg )
