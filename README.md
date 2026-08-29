@@ -25,6 +25,6 @@ Bulacan State University &nbsp;|&nbsp; Philippines
   <img width="100%" alt="dev-xrab wordmark" src="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&amp;theme=aurora&amp;style=terminal&amp;label=Dev_Xrab&amp;mode=dark">
 </picture></td>
 
-<td width="58%" valign="top">
-![small window](./contrib-heatmap.svg )
+<td width="58%" valign="top"> 
+  <img width="100%" alt="small window" src="contrib-heatmap.svg"> 
 </td>
