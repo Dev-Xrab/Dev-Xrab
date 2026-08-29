@@ -4,5 +4,5 @@ Bulacan State University &nbsp;|&nbsp; Philippines
 </div>
 
 <div align="center"> 
-<h1>When I code I rely on</h1>
+##When I code I rely on
 </div>
