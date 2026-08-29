@@ -1,56 +1,28 @@
-# Dev-Xrab
 
-> Recruiter-friendly proof and contact path.
+  
+### Developer · BSIT Graduate 
+Bulacan State University &nbsp;|&nbsp; Philippines
 
-## Header
+### When I code I rely on
 
-Hi, I'm **Dev-Xrab**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Dev-Xrab&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=Dev-Xrab&theme=github-dark" alt="Dev-Xrab hero section" />
-  </picture>
-</p>
-## About Me
+![small window](./contrib-heatmap.svg )
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Dev-Xrab&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=Dev-Xrab&theme=github-dark" alt="Dev-Xrab about section" />
-  </picture>
-</p>
-## Skills
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Dev-Xrab&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=Dev-Xrab&theme=github-dark" alt="Dev-Xrab stack section" />
-  </picture>
-</p>
-## GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Dev-Xrab&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=Dev-Xrab&theme=github-dark" alt="Dev-Xrab stats section" />
-  </picture>
-</p>
-## Projects
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Dev-Xrab&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=Dev-Xrab&theme=github-dark" alt="Dev-Xrab projects section" />
-  </picture>
-</p>
-## Heatmap
-
-## Connect
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Dev-Xrab&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=Dev-Xrab&theme=github-dark" alt="Dev-Xrab social section" />
-  </picture>
-</p>
+<td width="58%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&amp;theme=aurora&amp;style=terminal&amp;label=Ben+David+Senin&amp;mode=light">
+  <img width="100%" alt="dev-xrab wordmark" src="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&amp;theme=aurora&amp;style=terminal&amp;label=Ben+David+Senin&amp;mode=dark">
+</picture></td>
