@@ -1,23 +1,82 @@
-<h1 align="center">Hi 👋, I'm Dev-Xrab</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-xrab&label=Profile%20views&color=0e75b6&style=flat" alt="dev-xrab" /> </p>
+# Ben David
+### Full-Stack Developer · BSIT Student · ICARUS
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-xrab" alt="dev-xrab" /></a> </p>
+Bulacan State University (BulSU) &nbsp;|&nbsp; Bulacan, Philippines
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ben-david-senin-7a7038301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben-david-senin-7a7038301" height="30" width="40" /></a>
-<a href="https://fb.com/senin.bendavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="senin.bendavid" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## Overview
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-xrab&show_icons=true&locale=en&layout=compact" alt="dev-xrab" /></p>
+Full-stack developer with hands-on experience across mobile and web platforms, backend architecture, and database design. Currently completing a BSIT degree at Bulacan State University, with project work spanning cross-platform mobile applications, real-time systems, and cloud-integrated backends.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-xrab&show_icons=true&locale=en" alt="dev-xrab" /></p>
+**Core stack:** Java · Python · JavaScript/TypeScript · React · React Native (Expo) · Node.js / Express · PostgreSQL
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-xrab&" alt="dev-xrab" /></p>
+---
+
+## Featured Projects
+
+### FoundNest — Lost-and-Found Management System
+*Capstone Project (IT309)*
+
+A cross-platform system for managing lost-and-found reporting and recovery, combining a React Native (Expo) mobile application with a React web frontend.
+
+- **Backend:** Node.js, Express, PostgreSQL (Neon)
+- **Media & AI:** Cloudinary for image storage; Gemini API for AI-based image analysis
+- **Architecture:** Local SQLite offline caching with a cache-aside pattern; push notification pipeline; role-based dashboards
+- **Design process:** Full system documentation including ERD, DFD, and flowcharts per ISO 5807; security model built around OTP verification and the CIA triad
+
+### LocalInput — Local-Network Exam Hosting Platform
+
+A quiz and examination hosting application enabling instructors to run assessments over a local network, with students connecting via direct IP.
+
+- **Stack:** React, Node.js/Express, Socket.IO for real-time communication
+- **State management:** Zustand, including a dynamic form builder and live dashboard components
+- **Features:** Real-time student connection tracking, live countdown timers, dynamic quiz/question builder
+
+### Campus Navigation App
+
+A React Native mobile application providing interactive navigation for the BulSU campus.
+
+- **Mapping:** MapLibre (`@maplibre/maplibre-react-native`)
+- **Focus:** Zoom-level-optimized rendering tuned for campus-scale navigation
+
+### Personal Portfolio — ICARUS
+
+A personal portfolio site built to showcase projects and brand identity.
+
+- **Stack:** React, Vite — deployed on Vercel
+- **Highlights:** Custom cursor-tracking interaction built with CSS custom properties and `requestAnimationFrame`; responsive layout using fluid `clamp()` sizing
+
+---
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | Java, Python, JavaScript, TypeScript |
+| Frontend | React, React Native (Expo) |
+| Backend | Node.js, Express |
+| Database | PostgreSQL |
+| Real-Time & State | Socket.IO, Zustand |
+| Tools & Platforms | Git, Vercel, Cloudinary, Linux (Ubuntu) |
+
+---
+
+## Currently Exploring
+
+- Offline-first architecture for mobile applications
+- System design fundamentals (ERD, DFD, ISO 5807 documentation standards)
+- Linux-based development environment customization
+
+---
+
+## Contact
+
+<!-- Add your links below -->
+<!-- Portfolio: https://your-portfolio-link.com -->
+<!-- LinkedIn: https://linkedin.com/in/your-handle -->
+<!-- Email: your-email@example.com -->
