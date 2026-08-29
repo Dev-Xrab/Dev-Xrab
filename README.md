@@ -30,7 +30,7 @@ Bulacan State University &nbsp;|&nbsp; Philippines
   
 </td>
 
-<td width="42%" valign="top">
+<td width="80%" valign="top">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&theme=aurora&style=terminal&label=Ben+David&mode=light">
     <img width="100%" height ="100%" alt="dev-xrab wordmark" src="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&theme=aurora&style=terminal&label=Dev_Xrab&mode=dark">
@@ -40,7 +40,7 @@ Bulacan State University &nbsp;|&nbsp; Philippines
 </table>
  
 <td width="58%" valign="top"> 
-  <img width="100%" alt="small window" src="contrib-heatmap.svg"> 
+  <img width="100%" height ="100%" alt="small window" src="contrib-heatmap.svg"> 
 </td>
 
 
