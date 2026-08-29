@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="250" viewBox="0 0 560 250">
+<style>
+text{font-family:'Cascadia Mono','Consolas','Courier New',monospace}
+.title{font-size:18px;font-weight:700;fill:#39d353}
+.key{font-size:14px;font-weight:700;fill:#58a6ff}
+.value{font-size:14px;fill:#c9d1d9}
+.muted{font-size:12px;fill:#8b949e}
+</style>
+<rect width="100%" height="100%" rx="14" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="559" height="249" rx="14" fill="none" stroke="#30363d"/>
+<circle cx="22" cy="20" r="5" fill="#ff5f56"/>
+<circle cx="40" cy="20" r="5" fill="#ffbd2e"/>
+<circle cx="58" cy="20" r="5" fill="#27c93f"/>
+<text x="24" y="58" class="title">Dev-Xrab@github</text>
+<text x="24" y="80" class="muted">profile://whoami</text>
+<g opacity="0" transform="translate(0,8)">
+<text x="24" y="116" class="key">name        </text>
+<text x="142" y="116" class="value">Ben David</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.28s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.15s" dur="0.28s" fill="freeze"/>
+</g>
+<g opacity="0" transform="translate(0,8)">
+<text x="24" y="143" class="key">role        </text>
+<text x="142" y="143" class="value">Developer</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.27s" dur="0.28s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.27s" dur="0.28s" fill="freeze"/>
+</g>
+<g opacity="0" transform="translate(0,8)">
+<text x="24" y="170" class="key">focus       </text>
+<text x="142" y="170" class="value">Front and Backend  Development</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.28s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.39s" dur="0.28s" fill="freeze"/>
+</g>
+<g opacity="0" transform="translate(0,8)">
+<text x="24" y="197" class="key">tools       </text>
+<text x="142" y="197" class="value">Git · Linux · AI</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.51s" dur="0.28s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.51s" dur="0.28s" fill="freeze"/>
+</g>
+<g opacity="0" transform="translate(0,8)">
+<text x="24" y="224" class="key">hobby       </text>
+<text x="142" y="224" class="value">BEMBANG</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.63s" dur="0.28s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.63s" dur="0.28s" fill="freeze"/>
+</g>
+<line x1="24" y1="326" x2="536" y2="326" stroke="#30363d"/>
+<text x="24" y="346" class="muted">$ build → debug → understand → repeat</text>
+</svg>
