@@ -1,4 +1,3 @@
-<div align="center">
 
 ### Developer · BSIT Graduate 
 Bulacan State University &nbsp;|&nbsp; Philippines
@@ -20,11 +19,10 @@ Bulacan State University &nbsp;|&nbsp; Philippines
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-</div>
 
 <table>
 <tr>
-<td width="20%" valign="top">
+<td width="20%" valign="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=dev-xrab&theme=aurora&style=terminal&mode=light">
     <img width="100%" alt="dev-xrab portrait" src="https://www.gitskins.com/api/section/portrait?username=dev-xrab&theme=aurora&style=terminal&mode=dark">
