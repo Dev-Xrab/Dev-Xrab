@@ -1,6 +1,6 @@
 
   
-### Developer · BSIT Student · ICARUS
+### Developer · BSIT Graduate 
 Bulacan State University &nbsp;|&nbsp; Philippines
 
 ## When I code I rely on
