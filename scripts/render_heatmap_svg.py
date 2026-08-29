@@ -69,8 +69,7 @@ def main():
         raise SystemExit("No contribution days found.")
 
     last_day = max(by_date)
-    end_sunday = sunday_on_or_before(last_day) + timedelta(days=6)
-    start_sunday = end_sunday - timedelta(weeks=WEEKS - 1)
+    start_sunday = sunday_on_or_before(last_day) - timedelta(weeks=WEEKS - 1)
 
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}">',
