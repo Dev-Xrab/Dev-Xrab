@@ -1,6 +1,6 @@
 <picture height="100px">
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&theme=aurora&style=terminal&label=Ben+David&mode=light">
-    <img width="100%" alt="dev-xrab wordmark" src="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&theme=aurora&style=terminal&label=Dev_Xrab+BULSu;&mode=dark">
+    <img width="100%" alt="dev-xrab wordmark" src="https://www.gitskins.com/api/section/wordmark?username=dev-xrab&theme=aurora&style=terminal&label=Dev_Xrab_BULSu;&mode=dark">
   </picture>
 
 
